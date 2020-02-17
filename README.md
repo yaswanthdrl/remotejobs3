@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/yaswanthdrl/remotejobs3/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+<html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body fontcolor="orange">
 
-### Markdown
+<hr size="10" width="500" color="red"><h1 color="orange" align="center"><b><i>Remote Jobs</i></b></h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<hr size="10" width="500" color="red"></br>
 
-```markdown
-Syntax highlighted code block
+<h1><b>App Developer(python/Django)</b></h1></br>
+<a href="https://remote.com/jobs/app-developer-python-django--29dd4f74-c28a-481d-84f5-60ab9e7dd636"><i>App Developer</i></a></br>
+<h3>I am eager to do some new applications so this job attracted me a lot.</h3></br>
+<img src="C:\Users\rithw\Downloads\app development.jpg" width="200" align="right">
+<h3>It is also said that one requires a good understanding of </h3></br>
+<h3>server side templating and front end technologies,such as javascript,HTML5andCSS3</h3></br><hr size="5" color="black">
+<h1><b>Hugo Web Developer</b></h1></br>
+<a href="https://remote.com/jobs/hugo-web-developer-9a637aec-364a-423f-9153-62df3ee920b7">Hugo web developer</a></br>
+<img src="C:\Users\rithw\Downloads\hugo.jpg" width="200" align="right">
+<h3>Net protect is in search of Hugo web developer to help us </h3></br>
+<h3>to build the future of security and privacy for business.</h3></br>
+<h3>Experience with Gitlab is preferred,candidates who are capable of wire framing and designing are preferred.</h3></br>
+<hr size="5" color="black">
+<h1><b>Web Developer5-Cyber Security</b></h1></br>
+<a href="https://remote.com/jobs/web-developer-5-cyber-security-at-wells-fargo-0aabc716-0e75-4148-9d6c-40f38d5a7b05">
+web developer5-cyber security</a></br>
+<img src="C:\Users\rithw\Downloads\web.jpg" width="200" align="right">
+<h3>Required Qualifications web development experience,.net experience,C# experience,</h3></br>
+<h3>MVC Framework experience,javascript experience with great communications skills.</h3>
 
-# Header 1
-## Header 2
-### Header 3
+<hr size="10" color="orange" ><b>Done by</b></br>
+<marquee scroll amount="20" behavior="scroll" direction="right"><i>P.Yaswanth</br>
+IT-2</br>
+GVPCOE(A)</i></marquee><hr size="10" color="orange">
+</body>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yaswanthdrl/remotejobs3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
